@@ -46,9 +46,10 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 **Strava**
 - 1 - I ask my friend to give me access to his Strava to extract his data with an API. Unfortunately i understood later i will not need the API to extract the data.
-<img width="1020" alt="Screenshot 2021-12-16 at 20 04 14" src="https://user-images.githubusercontent.com/90766942/146433702-abf9830c-fe52-47c1-93b1-08182693bf4e.png">
 
 <img width="1061" alt="Screenshot 2021-12-16 at 20 03 59" src="https://user-images.githubusercontent.com/90766942/146433710-be4139c2-63d0-4b12-baae-66f622d96e8b.png">
+
+<img width="1020" alt="Screenshot 2021-12-16 at 20 04 14" src="https://user-images.githubusercontent.com/90766942/146433702-abf9830c-fe52-47c1-93b1-08182693bf4e.png">
 
 
 **Alteryx**
