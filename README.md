@@ -51,16 +51,18 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 **Tableau - Strava Data**
 - 3 - I used Tableau to import the data and get some graph about Where, and when he is running. ALso i get a graph of HR/Mph to see how his Heartbeat is reacting to his speed.
 
+**Excel - Managing the data**
+- 4 - Normally we use python in class to clean and manage the data. But in my case the data was structured and i just nedeed to delete columns and change points into coma. So i thought it was faster in excel. 
+
 **Tableau - Weather & Pollution Data**
-- 4 - After understanding better how the data looks like, i tried to understand the impact of the pollution and the weather on his run and also the correlation between the pollution and the weather. 
+- 5 - After understanding better how the data looks like, i tried to understand the impact of the pollution and the weather on his run and also the correlation between the pollution and the weather. 
 
 **Tableau - Comparision**
-- 5 - Then, i compared the data of Paris (where he is running) with the one of Barcelona. To see obvious correlation or not. That help us to better understand the amount of polution of paris compared to an other big europpeans city. Also the choice of Barcelona is done because i love this city and i would love my friends to come living here. 
+- 6 - Then, i compared the data of Paris (where he is running) with the one of Barcelona. To see obvious correlation or not. That help us to better understand the amount of polution of paris compared to an other big europpeans city. Also the choice of Barcelona is done because i love this city and i would love my friends to come living here. 
 
 **Tableau - Dashboard**
-- 6 - This allowed me to better understand the impact of pollution in both cities, but i wanted my friends to better understand the impact of his previsous runs on his health, so i created a dashboard linked on the weather and the pollution amount. So he can adapt his life on the pollution (or not) and live longer (maybe). 
+- 7 - This allowed me to better understand the impact of pollution in both cities, but i wanted my friends to better understand the impact of his previsous runs on his health, so i created a dashboard linked on the weather and the pollution amount. So he can adapt his life on the pollution (or not) and live longer (maybe). 
 
-  
   
   
 ## Tools 
@@ -68,18 +70,24 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 - **API**: [Jupyter notebook]() 
 
-
+- **Excel**: [](url)
 
 - **Vizualizations**: [Tableau](https://public.tableau.com/authoring/Case-Study-Classification_16369900928240/Dashboard1#1) / Seaborn / matplotlib
 
-- **Code**: [Jupyter notebook]() 
-
-- 
+- **Alteryx**: [](url)
 
 
 
 ## Key Take Aways
 
+**Conclusion**
+My visualisation was really challenging with some difficulties for a picture where i spent 1-2 hours just to find a solution. It's a lot of little step that makes me discovering things in Tableau i did not knew. It was really interesting. 
+The project himself is interesting for me to see the relation between two things i like: Sports and Climate. 
 
+**Improvement**
+I could have imporve many thing in my visualisations. 
+First the design, is simple but could have been more pretty. 
+Secondly, the data used for the dashboard is only for 2021, coudl have been cool to have more data and also to compare with data of Barcelona. 
+Thirdly, could have been cool to make it more sharable so anyone can put his data and it gives the informations. 
 
 Thank you for checking my repo.
