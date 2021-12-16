@@ -80,14 +80,17 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 ## Key Take Aways
 
--**Conclusion**
-My visualisation was really challenging with some difficulties for a picture where i spent 1-2 hours just to find a solution. It's a lot of little step that makes me discovering things in Tableau i did not knew. It was really interesting. 
+**Conclusion**
+- My visualisation was really challenging with some difficulties for a picture where i spent 1-2 hours just to find a solution. It's a lot of little step that makes me discovering things in Tableau i did not knew. It was really interesting. 
 The project himself is interesting for me to see the relation between two things i like: Sports and Climate. 
 
--**Improvement**
-I could have imporve many thing in my visualisations. 
+**Improvement**
+- I could have imporve many thing in my visualisations. 
 First the design, is simple but could have been more pretty. 
 Secondly, the data used for the dashboard is only for 2021, coudl have been cool to have more data and also to compare with data of Barcelona. 
 Thirdly, could have been cool to make it more sharable so anyone can put his data and it gives the informations. 
+
+
+
 
 Thank you for checking my repo.
