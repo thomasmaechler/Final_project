@@ -23,12 +23,12 @@ I did differents vizualizations thanks to tableau to understand better the data 
 ## Usefull links
 
 
-**Tableau**: [Link](https://public.tableau.com/app/profile/thomas.maechler/viz/FromStravatoTableauEdouard/Pollution2?publish=yes) 
-**Jupyter notebook**: [Link](url)
-**Ajuntament** : [Lien](ttps://ajuntament.barcelona.cat/qualitataire/en/qualitat-de-laire/com-es-lluita-contra-la-contaminacio/barcelona-public-health-agency)
-**Data of airpollution in paris** [Lien](https://www.airparif.asso.fr/toutes-nos-cartes)
-**Strava** [Lien](https://www.strava.com/)
-**Garmin** [Lien](https://www.garmin.com/fr-FR/account/)
+- **Tableau**: [Link](https://public.tableau.com/app/profile/thomas.maechler/viz/FromStravatoTableauEdouard/Pollution2?publish=yes) 
+- **Jupyter notebook**: [Link](url)
+- **Ajuntament** : [Lien](ttps://ajuntament.barcelona.cat/qualitataire/en/qualitat-de-laire/com-es-lluita-contra-la-contaminacio/barcelona-public-health-agency)
+- **Data of airpollution in paris** [Lien](https://www.airparif.asso.fr/toutes-nos-cartes)
+- **Strava** [Lien](https://www.strava.com/)
+- **Garmin** [Lien](https://www.garmin.com/fr-FR/account/)
 
 
 ## The Aim
@@ -80,11 +80,11 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 ## Key Take Aways
 
-**Conclusion**
+-**Conclusion**
 My visualisation was really challenging with some difficulties for a picture where i spent 1-2 hours just to find a solution. It's a lot of little step that makes me discovering things in Tableau i did not knew. It was really interesting. 
 The project himself is interesting for me to see the relation between two things i like: Sports and Climate. 
 
-**Improvement**
+-**Improvement**
 I could have imporve many thing in my visualisations. 
 First the design, is simple but could have been more pretty. 
 Secondly, the data used for the dashboard is only for 2021, coudl have been cool to have more data and also to compare with data of Barcelona. 
