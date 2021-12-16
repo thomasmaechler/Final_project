@@ -24,11 +24,13 @@ I did differents vizualizations thanks to tableau to understand better the data 
 
 
 - **Tableau**: [Link](https://public.tableau.com/app/profile/thomas.maechler/viz/FromStravatoTableauEdouard/Pollution2?publish=yes) 
-- **Jupyter notebook**: [Link](url)
+- **Jupyter notebook**: Issue with the file (ask sian) 
 - **Ajuntament** : [Lien](ttps://ajuntament.barcelona.cat/qualitataire/en/qualitat-de-laire/com-es-lluita-contra-la-contaminacio/barcelona-public-health-agency)
 - **Data of airpollution in paris** [Lien](https://www.airparif.asso.fr/toutes-nos-cartes)
+- **Data Weather** [Lien](https://www.meteoblue.com/fr/meteo/archive/export/paris_france_2988507)
 - **Strava** [Lien](https://www.strava.com/)
 - **Garmin** [Lien](https://www.garmin.com/fr-FR/account/)
+- **Alteryx** [Lien](https://www.alteryx.com/fr/)
 
 
 ## The Aim
@@ -44,6 +46,10 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 **Strava**
 - 1 - I ask my friend to give me access to his Strava to extract his data with an API. Unfortunately i understood later i will not need the API to extract the data.
+<img width="1020" alt="Screenshot 2021-12-16 at 20 04 14" src="https://user-images.githubusercontent.com/90766942/146433702-abf9830c-fe52-47c1-93b1-08182693bf4e.png">
+
+<img width="1061" alt="Screenshot 2021-12-16 at 20 03 59" src="https://user-images.githubusercontent.com/90766942/146433710-be4139c2-63d0-4b12-baae-66f622d96e8b.png">
+
 
 **Alteryx**
 - 2 - I extract the data from Strava and then i used Alteryx. ALteryx can be used to speed up your processes (accounting close, tax filings, regulatory reporting, forecast creation), automate processes (reconciliations, consolidations, marketing workflows, system integrations, continuous audits), and enable predictive and geospatial solutions. So, in my case was really usefull so i can use the data from stava, into files readable for Tableau.
@@ -67,14 +73,11 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
   
 ## Tools 
 
-
-- **API**: [Jupyter notebook]() 
-
 - **Excel**: [](url)
 
 - **Vizualizations**: [Tableau](https://public.tableau.com/authoring/Case-Study-Classification_16369900928240/Dashboard1#1)
 
-- **Alteryx**: [](url)
+- **Alteryx**:[](https://www.alteryx.com/fr/)
 
 
 
