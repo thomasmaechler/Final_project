@@ -1,10 +1,10 @@
 # Running and data vizualization
 
-Final Project Ironhack
+Final Project Ironhack by Thomas Maechler December 2021
 
-by Thomas Maechler December 2021
 
-I want to make different vizualization thanks to tableau to understand better the data i collected from the run of my friend in Paris. 
+
+I did differents vizualizations thanks to tableau to understand better the data i collected from the run of my friend in Paris. 
 
 <img width="1252" alt="Screenshot 2021-12-16 at 18 19 20" src="https://user-images.githubusercontent.com/90766942/146418585-be851676-3980-4a71-8569-dff57eda5b9b.png">
 
