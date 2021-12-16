@@ -2,7 +2,7 @@
 
 Final Project Ironhack by Thomas Maechler December 2021
 
-
+[The final project](https://public.tableau.com/app/profile/thomas.maechler/viz/FromStravatoTableauEdouard/Story1)
 
 I did differents vizualizations thanks to tableau to understand better the data i collected from the run of my friend in Paris. 
 
