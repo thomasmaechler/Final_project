@@ -25,7 +25,7 @@ I did differents vizualizations thanks to tableau to understand better the data 
 
 - **Tableau**: [Link](https://public.tableau.com/app/profile/thomas.maechler/viz/FromStravatoTableauEdouard/Pollution2?publish=yes) 
 - **Jupyter notebook**: Issue with the file (ask sian) 
-- **Ajuntament** : [Lien](ttps://ajuntament.barcelona.cat/qualitataire/en/qualitat-de-laire/com-es-lluita-contra-la-contaminacio/barcelona-public-health-agency)
+- **Ajuntament** : [Lien](https://ajuntament.barcelona.cat/qualitataire/en/qualitat-de-laire/com-es-lluita-contra-la-contaminacio/barcelona-public-health-agency)
 - **Data of airpollution in paris** [Lien](https://www.airparif.asso.fr/toutes-nos-cartes)
 - **Data Weather** [Lien](https://www.meteoblue.com/fr/meteo/archive/export/paris_france_2988507)
 - **Strava** [Lien](https://www.strava.com/)
