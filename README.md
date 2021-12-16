@@ -72,7 +72,7 @@ He is located in Paris and his run goes from 2018 to 2021. I decided to focus on
 
 - **Excel**: [](url)
 
-- **Vizualizations**: [Tableau](https://public.tableau.com/authoring/Case-Study-Classification_16369900928240/Dashboard1#1) / Seaborn / matplotlib
+- **Vizualizations**: [Tableau](https://public.tableau.com/authoring/Case-Study-Classification_16369900928240/Dashboard1#1)
 
 - **Alteryx**: [](url)
 
